@@ -1,70 +1,70 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Conhecimentos Gerais',
+    'Qual é o maior planeta do sistema solar?',
+    'Júpiter'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Conhecimentos Gerais',
+    'Quem escreveu "Dom Casmurro"?',
+    'Machado de Assis'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Conhecimentos Gerais',
+    'Qual é a capital da França?',
+    ' Paris'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Conhecimentos Gerais',
+    'Qual elemento químico tem o símbolo O?',
+    'Oxigênio'
 )
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
-)
-
-criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Conhecimentos Gerais',
+    'Em que ano o homem pisou na Lua pela primeira vez?',
+    '1969'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Conhecimentos Gerais',
+    'Qual é a montanha mais alta do mundo?',
+    'Monte Everest'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Conhecimentos Gerais',
+    'Quem pintou a Mona Lisa?',
+    'Leonardo da Vinci'
 )
 
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Conhecimentos Gerais',
+    'Qual é o continente mais populoso?',
+    'Ásia'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Conhecimentos Gerais',
+    'Qual é a moeda oficial do Japão?',
+    'Iene'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Conhecimentos Gerais',
+    'Qual é a língua mais falada no mundo?',
+    'Mandarim'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Conhecimentos Gerais',
+    'Quem foi o cientista que formulou a teoria da relatividade?',
+    'Albert Einstein'
+)
+
+criaCartao(
+    'Conhecimentos Gerais',
+    'Qual é o rio mais longo do mundo?',
+    'Rio Amazonas (embora o Rio Nilo também seja frequentemente mencionado)'
 )
